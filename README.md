@@ -6,16 +6,16 @@ A web-based Remote Control Interface that enables users to send commands to a co
 
 ## Features
 
-- **User-Friendly Interface**: Simple design with an intuitive dropdown for command selection.
-- **Command Options**: 
-  - **Alert**: Trigger an alert dialog.
-  - **Send Notification**: Send a test notification to the device.
-  - **Vibrate**: Make the device vibrate.
-  - **Flicker**: Create a flickering effect on the device's display.
-  - **Ring**: Play a ringing sound on the device.
-  - **Freeze/Unfreeze**: Temporarily freeze the device's interface and restore functionality.
-- **Real-time Communication**: Uses Socket.io for real-time event-based communication between the client and server.
-- **Mobile Optimization**: Designed for both desktop and mobile usage, with adjustments for screen size.
+-User-Friendly Interface**: Simple design with an intuitive dropdown for command selection.
+-Command Options: 
+  - Alert: Trigger an alert dialog.
+  - Send Notification**: Send a test notification to the device.
+  - Vibrate: Make the device vibrate.
+  - Flicker: Create a flickering effect on the device's display.
+  - Ring: Play a ringing sound on the device.
+  - Freeze/Unfreeze: Temporarily freeze the device's interface and restore functionality.
+- Real-time Communication: Uses Socket.io for real-time event-based communication between the client and server.
+- Mobile Optimization: Designed for both desktop and mobile usage, with adjustments for screen size.
 
 ## Demo
 
