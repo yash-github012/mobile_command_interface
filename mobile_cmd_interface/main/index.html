@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Remote Control Interface</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        
+    </style>
+</head>
+<body>
+   
+
+    <div class="container">
+        <h1>Remote Control Interface</h1>
+        <select id="commandSelect">
+            <option value="">Select a command</option>
+            <option value="alert">Alert</option>
+            <option value="notify:Test Notification">Send Notification</option>
+            <option value="vibrate">Vibrate</option>
+            <option value="flicker">Flicker</option>
+            <option value="ring">Ring</option>
+            <option value="freeze">Freeze</option>
+            <option value="unfreeze">Unfreeze</option>
+        </select>
+        <button onclick="sendCommand()">Send Command</button>
+    </div>
+
+    <div class="welcome-message">
+        Welcome to the Remote Control Interface! 
+        Please varify your self
+    </div>
+   
+    <div id="freezeOverlay" class="freeze">The device is temporarily unresponsive!</div>
+
+    <script src="/public/script.js"></script>
+    <video class="video-background" autoplay loop muted>
+        <source src="/asset/bg.mp4" type="video/mp4">
+        
+        Your browser does not support the video tag.
+    </video>
+    </body>
+</html>
