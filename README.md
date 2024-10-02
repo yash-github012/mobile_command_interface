@@ -1,5 +1,4 @@
-Here's the updated README file with a **Fair Use Warning** and precautionary lines added. 
-
+ 
 ```markdown
 # Remote Control Interface
 
@@ -20,7 +19,7 @@ A web-based Remote Control Interface that enables users to send commands to a co
 
 ## Demo
 
-[Include a link to a live demo or screenshots if available.]
+[will be provided.]
 
 ## Installation
 
@@ -100,17 +99,13 @@ This project is intended for personal and educational use only. Any commercial o
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed please contact padekarshreyas@gmail.com. 
 
 ## Author
 
-- **Your Name** - [GitHub Profile](https://github.com/yourusername)
+- **shreyas padekar** - [GitHub Profile](https://github.com/yash-github012)
 
 Feel free to contribute to this project by submitting issues or pull requests!
 ```
 
-### Changes Made:
-1. **Precautions Section**: Added lines warning users to use the interface responsibly and outlining the need for device compatibility and data privacy.
-2. **Fair Use Warning**: A clear statement indicating the intended use of the software and the author's limitations on responsibility.
 
-Feel free to adjust any part of the content to better fit your intentions!
